@@ -15,7 +15,7 @@ $smfile.fileinput({
         return dataObj;
     },
     // allowedFileExtensions: ['jpeg', 'jpg', 'png', 'gif', 'bmp', 'webp'],
-    allowedFileExtensions: ['jpeg', 'jpg', 'png', 'gif', 'bmp', 'mp4', 'mov', 'avi'],
+    allowedFileExtensions: ['jpeg', 'jpg', 'png', 'gif', 'bmp', 'mp4', 'mov', 'mkv', 'avi'],
     overwriteInitial: false,
     previewFileType: "image",
     maxFileSize: '5120',
